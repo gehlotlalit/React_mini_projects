@@ -1,0 +1,12 @@
+.Product{
+    margin-top: 10px;
+    height: 90px;
+    border-radius: 16px;
+    border: 2px solid rgb(0, 0, 0);
+    text-align: center;
+    padding: 5px;
+    
+}
+.Product p{
+    margin-top: 33px;
+}
