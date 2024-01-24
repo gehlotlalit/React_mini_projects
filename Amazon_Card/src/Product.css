@@ -1,12 +1,16 @@
-.Product{
-    margin-top: 10px;
-    height: 90px;
-    border-radius: 16px;
-    border: 2px solid rgb(0, 0, 0);
-    text-align: center;
-    padding: 5px;
-    
+.Product {
+  margin-top: 10px;
+  height: 160px;
+  border-radius: 16px;
+  border: 2px solid rgb(0, 0, 0);
+  text-align: center;
+  /* padding: 5px; */
+  margin-left: 15px;
+  margin-right: 20px;
+  width: 200px;
 }
-.Product p{
-    margin-top: 33px;
+h2{
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
